@@ -42,7 +42,7 @@ find_package( OpenCASCADE
                 ModelingAlgorithms
                 ModelingData
                 Visualization
-              REQUIRED)
+              )
 
 #----------------------------------------------------------------------------
 # Locate sources and headers for this project
